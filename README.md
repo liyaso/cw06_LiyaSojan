@@ -2,4 +2,4 @@
 
 ## Master MySQL + PHP
 
-An assignment that allowed students to understand how to use MySQL and PHP to create an application.
+An assignment that allowed students to understand how to use MySQL and PHP to create an application with CRUD operations.
